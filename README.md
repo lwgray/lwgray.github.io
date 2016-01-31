@@ -1,4 +1,4 @@
-# [GOODSTUFF Bootstrap](http://www.igotthegoodstuff.com/) - [Landing Page]
+# [GOODSTUFF](http://www.igotthegoodstuff.com/) - [Landing Page]
 
 
 
