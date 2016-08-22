@@ -450,3 +450,8 @@ div.contact-me {
     display:block;
     margin:auto;
 }
+
+#wordcloud {
+    height: 300px;
+    width: 500px;
+}
