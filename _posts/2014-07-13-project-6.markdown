@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <p><a href="https://github.com/lwgray/pyEntrezId" target="_blank"> PyEntrezID: </a>The easy conversion between the several biological IDs.</p>
-<p><a href="http://www.ncbi.nlm.nih.gov/Structure/MMDB/mmdb.shtml" target="_blank">MMDB: </a>3D transformation methods for biological structures</p>
- <p><a href="https://github.com/lwgray/pytransform" target="_blank">PyTransform: </a>Linear transformation of molecular structure</p>
+description: <a href="https://github.com/lwgray/pyEntrezId" target="_blank">
+
 ---
